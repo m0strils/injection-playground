@@ -1,0 +1,8 @@
+# Prompt-Injection Playground — dependencies.
+#
+# The CORE LAB IS STDLIB-ONLY: vulnerable_app.py, defended path, defenses.py,
+# the fake model, and run_attacks.py all run on a bare Python 3.11+ install.
+# There is nothing to pip install to reproduce every lesson.
+#
+# OPTIONAL — only if you wire the real-LLM engine (fake_llm.complete_real):
+# anthropic>=0.40
