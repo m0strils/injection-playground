@@ -34,8 +34,10 @@ to **slip past** the layer-1 heuristics, and is caught only by layers 3–4.
 Heuristics are necessary but never sufficient.
 
 ## Map to the enterprise-readiness framework
-This project is the portfolio's **Dimension 1 (Security)** deep-dive. See
-`../learning/enterprise-readiness.md`. It maps to that dimension's checklist:
+This project is the portfolio's **Dimension 1 (Security)** deep-dive against an
+eight-dimension enterprise-readiness framework — security, governance,
+evaluation, observability, reliability, cost, deployment, and context/memory. It
+maps to that first dimension's checklist:
 
 - **Prompt injection (LLM01):** input guardrails, instruction/data separation,
   never trust retrieved content as instructions → lessons 01, 02.

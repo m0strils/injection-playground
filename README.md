@@ -10,7 +10,7 @@ handling, LLM06 sensitive-information disclosure). The point of the lab is the
 **defenses** — the attacks exist only to prove the defenses are necessary and
 that they work.
 
-> Sibling of [Interchange](../interchange-ai) in an AI portfolio built to an
+> Sibling of [Interchange](https://github.com/m0strils/interchange-ai) in an AI portfolio built to an
 > 8-dimension enterprise-readiness framework. This one owns **Dimension 1:
 > Security**. Same code voice, same honest scorecard.
 
